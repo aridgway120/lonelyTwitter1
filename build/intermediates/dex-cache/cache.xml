@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/a/r/aridgway/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/94ec2d7b23be9817d92905cc09124aecfc46d28c/robotium-solo-5.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ec2d7b23be9817d92905cc09124aecfc46d28c">
+        <dex dex="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/pre-dexed/debug/robotium-solo-5.6.3_20ab77460c0118aa646944009bed52e8a6e8cc28.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8cf7b3afb52eba42218474f015fff55923c79aa5">
+        <dex dex="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_954f16d52a8d4185d866ad574e0951712b4472dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/a/r/aridgway/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_27355027adc7fb636a8be80e74ae0d33b6f4604a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/a/r/aridgway/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_024662f5abdf503caa4af8a1716ec58d947b119f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/a/r/aridgway/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/pre-dexed/debug/gson-2.7_024662f5abdf503caa4af8a1716ec58d947b119f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23fa0838d63cc638a4dd65344b7ed023dc5890ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/pre-dexed/debug/classes_a202efc3aaac2bf87d8ac93e60ccd55d25d22a09.jar" />
+    </item>
+
+</items>

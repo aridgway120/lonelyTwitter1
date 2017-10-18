@@ -1,0 +1,7 @@
+#Tue Oct 17 19:14:17 MDT 2017
+base.0=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/robotium-solo-5.6.3_20ab77460c0118aa646944009bed52e8a6e8cc28
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_024662f5abdf503caa4af8a1716ec58d947b119f/classes.dex
+base.1=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_024662f5abdf503caa4af8a1716ec58d947b119f
+file.0=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/robotium-solo-5.6.3_20ab77460c0118aa646944009bed52e8a6e8cc28/classes.dex

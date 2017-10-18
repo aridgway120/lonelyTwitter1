@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 39,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 39,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 37,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 37,
+                        "endOffset": 192
+                    }
+                }
+            }
+        ]
+    }
+]

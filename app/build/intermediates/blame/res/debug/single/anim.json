@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/anim/abc_slide_in_top.xml"
+    }
+]
