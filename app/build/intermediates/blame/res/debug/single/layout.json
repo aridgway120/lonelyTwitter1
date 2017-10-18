@@ -4,6 +4,10 @@
         "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/src/main/res/layout/main.xml"
+    },
+    {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/list_item.xml",
         "source": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/src/main/res/layout/list_item.xml"
     },
@@ -20,6 +24,10 @@
         "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/src/main/res/layout/list_item.xml"
+    },
+    {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/layout/abc_action_bar_title_item.xml"
     },
@@ -30,6 +38,10 @@
     {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/merged/debug/layout/activity_edit_tweet.xml",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/src/main/res/layout/activity_edit_tweet.xml"
     },
     {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",

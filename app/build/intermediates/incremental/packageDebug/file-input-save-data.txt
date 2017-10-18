@@ -1,27 +1,27 @@
 #Internal package file, do not edit.
-#Tue Oct 17 19:22:29 MDT 2017
-2.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
-5.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
+#Tue Oct 17 20:02:43 MDT 2017
+2.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+5.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
 5.set=ANDROID_RESOURCE
-3.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
-6.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/resources.arsc
-2.set=JAVA_RESOURCE
-4.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
-7.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
-7.set=ANDROID_RESOURCE
+3.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_
+6.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
+2.set=DEX
+4.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_
+7.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/com/robotium/solo/RobotiumWeb.js
+7.set=JAVA_RESOURCE
 count=8
-0.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_edit_tweet.xml
-5.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
+0.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_
 4.set=ANDROID_RESOURCE
-6.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
-1.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
-1.set=DEX
-7.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
-2.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/com/robotium/solo/RobotiumWeb.js
+6.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_
+1.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_edit_tweet.xml
+1.set=ANDROID_RESOURCE
+7.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+2.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
 6.set=ANDROID_RESOURCE
-0.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
-3.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+0.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_
+3.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
 3.set=ANDROID_RESOURCE
-1.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-4.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.base=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_
+4.file=/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 0.set=ANDROID_RESOURCE

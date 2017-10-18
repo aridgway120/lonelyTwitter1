@@ -28,12 +28,12 @@
         "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png"
     },
     {
-        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png",
-        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png"
-    },
-    {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_commit_search_api_holo_light.png",
         "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png"
     },
     {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png",
@@ -110,6 +110,10 @@
     {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png",
         "source": "/afs/ualberta.ca/home/a/r/aridgway/.android/build-cache/a3ce0f4c10f8d6e8a96e01b68379376a15acbe14/output/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter1/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
         "merged": "/afs/ualberta.ca/home/a/r/aridgway/Lonely/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png",
